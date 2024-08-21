@@ -7,6 +7,9 @@
 A short description of the project.
 
 ## Project Organization
-
+ Để thực hiện mã nguồn trên đầu tiên cần tải về theo lệnh:
+```
+git clone https://github.com/NguyenHuy31072002/Chatbot_with_Data.git
+```
 
 
