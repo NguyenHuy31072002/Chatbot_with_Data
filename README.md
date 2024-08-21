@@ -41,7 +41,7 @@ python prepare_vector_db.py
 ```
 streamlit run chatbot.py
 ```
-Sau khi chạy nó sẽ tạo ra giao diện như sau 
+Sau khi chạy nó sẽ tạo ra giao diện như sau và chúng ta tiến hành hỏi đáp
 ![image](https://github.com/user-attachments/assets/017addac-dfc3-4882-914d-f40ef06621ba)
 
 
