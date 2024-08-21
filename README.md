@@ -27,6 +27,10 @@ python -m venv .venv
 ```
 pip install -r requirements.txt
 ```
+- Tạo 1 file .env để điền thông tin của GOOGLE_GENAI_API_KEY vào
+```
+GOOGLE_GENAI_API_KEY = Your_api_key
+```
 - Truy cập vào folder VectorDB và vào file prepare_vector_db.py
 ```
 cd src/VectorDB/
