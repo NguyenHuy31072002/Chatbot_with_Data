@@ -7,6 +7,10 @@
 A short description of the project.
 
 ## Project Organization
+Video demo hỏi đáp 
+[![Watch the video](https://img.youtube.com/vi/sNtAHX77O5g/0.jpg)](https://www.youtube.com/watch?v=sNtAHX77O5g)
+
+
  - Để thực hiện mã nguồn trên đầu tiên cần tải về theo lệnh:
 ```
 git clone https://github.com/NguyenHuy31072002/Chatbot_with_Data.git
@@ -44,8 +48,7 @@ streamlit run chatbot.py
 Sau khi chạy nó sẽ tạo ra giao diện như sau và chúng ta tiến hành hỏi đáp
 ![image](https://github.com/user-attachments/assets/017addac-dfc3-4882-914d-f40ef06621ba)
 
-Video demo hỏi đáp 
-[![Watch the video](https://img.youtube.com/vi/sNtAHX77O5g/0.jpg)](https://www.youtube.com/watch?v=sNtAHX77O5g)
+
 
 
 
